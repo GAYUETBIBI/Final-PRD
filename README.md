@@ -49,7 +49,7 @@
 ### 原型1.交互及界面设计 5%
 交互及界面设计：APP中的语音识别功能和语音合成功能，运用阿里云的智能语音识别API与语音合成API。
 
-![通讯录界面](https://images.gitee.com/uploads/images/2019/1210/234009_7e3bfe60_1648179.png "qq.png")
+![通讯录界面](C:\Users\悦嘻嘻\Pictures\Saved Pictures)
 ![拨号页面](https://images.gitee.com/uploads/images/2019/1210/234226_09812169_1648179.png "dd.png")
 ![聊天界面](https://images.gitee.com/uploads/images/2019/1210/234253_849e413d_1648179.png "vv.png")
 
