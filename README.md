@@ -69,9 +69,6 @@
 使用水平：输入
 
 
-# 执行录音文件识别
-fileTrans(accessKeyId, accessKeySecret, appKey, fileLink)
-
 ### API2.使用比较分析 5%
 使用比较分析：在PRD文件中是否有说明且提供连结证据，所使用的API是查找过最适用的（主要竞争者无或比较次），如考量其成熟度丶性价比丶等等
 
