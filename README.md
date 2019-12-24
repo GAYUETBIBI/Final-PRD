@@ -76,8 +76,15 @@
 交互及界面设计：APP中的语音识别功能和语音合成功能，运用百度AI的语音识别api与语音合成api。
 
 ![最近通话](https://images.gitee.com/uploads/images/2019/1224/204310_0c067a95_1648179.png "最近通话.png")
-![拨号页面](https://images.gitee.com/uploads/images/2019/1210/234226_09812169_1648179.png "dd.png")
-![聊天界面](https://images.gitee.com/uploads/images/2019/1210/234253_849e413d_1648179.png "vv.png")
+
+![通讯录](https://images.gitee.com/uploads/images/2019/1224/204800_aad42d46_1648179.png "通讯录.png")
+
+![拨号](https://images.gitee.com/uploads/images/2019/1224/204818_fdc783ab_1648179.png "拨号.png")
+
+![通话中](https://images.gitee.com/uploads/images/2019/1224/204834_6276fece_1648179.png "通话中.png")
+
+![我](https://images.gitee.com/uploads/images/2019/1224/204848_bc469c80_1648179.png "我.png")
+
 
 ### 原型2.信息设计 5%
 信息设计：
