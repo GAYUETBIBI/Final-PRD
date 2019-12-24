@@ -155,16 +155,6 @@ DEV_PID = 1536  # 1537 表示识别普通话，使用输入法模型。1536表�
 ASR_URL = 'http://vop.baidu.com/server_api'
 SCOPE = 'audio_voice_assistant_get'  # 有此scope表示有asr能力，没有请在网页里勾选，非常旧的应用可能没有
 
-#测试自训练平台需要打开以下信息， 自训练平台模型上线后，您会看见 第二步：“”获取专属模型参数pid:8001，modelid:1234”，按照这个信息获取 dev_pid=8001，lm_id=1234
-# DEV_PID = 8001 ;   
-# LM_ID = 1234 ;
-
-# 极速版 打开注释的话请填写自己申请的appkey appSecret ，并在网页中开通极速版（开通后可能会收费）
-
-# DEV_PID = 80001
-# ASR_URL = 'http://vop.baidu.com/pro_api'
-# SCOPE = 'brain_enhanced_asr'  # 有此scope表示有极速版能力，没有请在网页里开通极速版
-
 # 忽略scope检查，非常旧的应用可能没有
 # SCOPE = False
 
@@ -251,7 +241,15 @@ if __name__ == '__main__':
         of.write(result_str)
 
 ```
-   
+
+* 输出：
+
+```
+{"corpus_no":"6595003755536106531","err_msg":"success.","err_no":0,"result":["北京科技馆，"],"sn":"611278720461535518969"}
+```
+2. 功能二：语音合成（百度AI）
+* 输入代码：
+
 
 ### 二、使用比较分析
 使用比较分析：在PRD文件中是否有说明且提供连结证据，所使用的API是查找过最适用的（主要竞争者无或比较次），如考量其成熟度丶性价比丶等等
