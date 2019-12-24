@@ -75,14 +75,22 @@
 ### 一、交互及界面设计
 APP中的语音识别功能和语音合成功能，运用百度AI的语音识别api与语音合成api。
 
-1. 最近通话页面![最近通话](https://images.gitee.com/uploads/images/2019/1224/204310_0c067a95_1648179.png "最近通话.png")
+* 最近通话页面
 
-2. 通讯录页面![通讯录](https://images.gitee.com/uploads/images/2019/1224/204800_aad42d46_1648179.png "通讯录.png")
+![最近通话](https://images.gitee.com/uploads/images/2019/1224/204310_0c067a95_1648179.png "最近通话.png")
 
-3. 拨号页面![拨号](https://images.gitee.com/uploads/images/2019/1224/204818_fdc783ab_1648179.png "拨号.png")
+* 通讯录页面
+
+![通讯录](https://images.gitee.com/uploads/images/2019/1224/204800_aad42d46_1648179.png "通讯录.png")
+
+* 拨号页面
+
+![拨号](https://images.gitee.com/uploads/images/2019/1224/204818_fdc783ab_1648179.png "拨号.png")
 ![通话中](https://images.gitee.com/uploads/images/2019/1224/204834_6276fece_1648179.png "通话中.png")
 
-4. 我的页面![我](https://images.gitee.com/uploads/images/2019/1224/204848_bc469c80_1648179.png "我.png")
+* 我的页面
+
+![我](https://images.gitee.com/uploads/images/2019/1224/204848_bc469c80_1648179.png "我.png")
 
 ### 二、信息设计
 * APP打电话中说出对话将语音转为文字功能运用实时语音转写API，输出文本，实现语音转文字功能
