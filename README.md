@@ -115,7 +115,7 @@ APP中的语音识别功能和语音合成功能，运用百度AI的语音识别
 
 * 输入代码：
 
-```
+```python
 # coding=utf-8
 
 import sys
