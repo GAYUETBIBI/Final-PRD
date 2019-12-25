@@ -249,14 +249,14 @@ if __name__ == '__main__':
 
 * 输出：
 
-```
+```python
 {"corpus_no":"6595003755536106531","err_msg":"success.","err_no":0,"result":["北京科技馆，"],"sn":"611278720461535518969"}
 ```
 2. 功能二：语音合成（百度AI）
 
 * 输入代码：
 
-```
+```python
 # coding=utf-8
 import sys
 import json
@@ -381,7 +381,7 @@ if __name__ == '__main__':
 
  * 输出：
  
- ```
+ ```python
  result saved as :result.mp3
  ```
 
